@@ -1,5 +1,5 @@
 ## rust_begginers_web
-actix_web + diesel, diesel::r2d2
+actix_web + diesel, diesel::r2d2, diesel::Sqlite
 
 ## how to use
 
